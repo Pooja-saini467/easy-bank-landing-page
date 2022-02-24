@@ -24,7 +24,7 @@
 
 
 ## Live Link
-- Pooja-saini467(https://pooja-saini467.github.io/ecommerce-page/)
+- Pooja-saini467(https://pooja-saini467.github.io/easy-bank-landing-page/)
 
 
 ## My Process
