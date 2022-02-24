@@ -16,7 +16,7 @@
 - It is complete responsive
 
 ## screenshot
-<img src="https://github.com/Pooja-saini467/ecommerce-page/blob/main/design/desktop-design.jpg?raw=true">
+<img src="https://github.com/Pooja-saini467/easy-bank-landing-page/blob/main/design/desktop-design.jpg">
 
 ## Demo
 
